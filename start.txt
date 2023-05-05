@@ -1,1 +1,11 @@
 "test Git Quick Start demo"
+first change directory
+to cd/
+F:\Adventview\Study\github-demo
+then check git status
+add file and write in text file echo "test Git Quick Start demo">>start.txt
+git add start.txt
+
+git commit -m "Adding start text file"
+
+git push origin main
